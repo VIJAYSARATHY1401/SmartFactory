@@ -1,4 +1,4 @@
-# Car Repiar Shop
+# Car Repair Shop
 
 It is an admin panel for garage management. In this project admin can see top customer, top sold parts, total car entries in different charts in dashboard page, a car check out has implemented with print at car "leave form" route.
 
